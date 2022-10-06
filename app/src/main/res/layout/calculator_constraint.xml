@@ -354,7 +354,7 @@
             android:textSize="20sp"
             android:textColor="@color/white"
             android:textStyle="bold"
-            android:backgroundTint="@color/gray"
+            android:backgroundTint="@color/purple_700"
             />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
